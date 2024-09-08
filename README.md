@@ -34,7 +34,7 @@
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/anaconda"/>
+  <img src="https://img.icons8.com/color/48/000000/anaconda.png"/>
 </p>
 
 ## Activities:
