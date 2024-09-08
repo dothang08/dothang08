@@ -34,7 +34,7 @@
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000"/>
+  <img src="https://icons8.com/color/48/000000/anaconda"/>
 </p>
 
 ## Activities:
