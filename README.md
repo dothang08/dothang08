@@ -34,6 +34,9 @@
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/?size=48&id=F4uMFPZgS0gt&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=48&id=pIJdjOoL6KfU&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=48&id=Ny0t2MYrJ70p&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=48&id=Ny0t2MYrJ70p&format=png&color=000000"/>
 </p>
 
 ## Activities:
