@@ -45,7 +45,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+        <img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
