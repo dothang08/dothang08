@@ -3,7 +3,7 @@
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
 <h2 align="center">Hi 👋, I'm DoThang08</h2>
-> ✍ I'm a Data Analyst Intern
+> ✍ I'm a Data Engineer Intern
 
 <br />
 
